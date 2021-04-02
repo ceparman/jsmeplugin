@@ -1,0 +1,9 @@
+Package: jsmeplugin
+Title: JSME Widget
+Version: 0.0.0.9000
+Authors: 
+Description: JSME Editor Widget
+Depends: R (>= 3.2.5)
+License: MIT
+Encoding: UTF-8
+LazyData: true
